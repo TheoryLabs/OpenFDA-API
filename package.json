@@ -1,0 +1,6 @@
+{
+  "name": "@theorylabs/openfda-api",
+  "scripts": {
+    "release": "scripts/release"
+  }
+}
